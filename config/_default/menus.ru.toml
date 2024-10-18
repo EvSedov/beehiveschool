@@ -10,18 +10,3 @@ weight = 1
 name = "Сведения об образовательной организации"
 url = "/education"
 weight = 2
-
-[[main]]
-name = "Страницы"
-weight = 3
-
-[[main]]
-parent = "Страницы"
-name = "Программа обучения"
-url = "/programma"
-
-# footer menu
-[[footer]]
-name = "Политика конфиденциальности"
-url = "/privacy-policy"
-weight = 1
